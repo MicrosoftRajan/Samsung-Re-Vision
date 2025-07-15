@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="600" viewBox="0 0 300 600">
+  <!-- Entire area hidden -->
+  <rect width="300" height="600" fill="white"></rect>
+  
+  <!-- Visible phone screen area -->
+  <rect x="20" y="40" width="260" height="520" rx="50" ry="50" fill="black"></rect>
+  
+  <!-- Optional notch (comment out if you don't want it) -->
+  <!-- <rect x="110" y="40" width="80" height="20" fill="white"/>
+--></svg>
